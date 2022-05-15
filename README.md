@@ -28,7 +28,6 @@ I'm Munisa Rakhmatullaeva ( nick "Armeum" ) a student in Westminster Internation
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MunisaR.MunisaR)
 
-#### Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
