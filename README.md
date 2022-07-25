@@ -1,6 +1,6 @@
 ## Ciao! It's Munisa  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <br>
 
-I'm Munisa Rakhmatullaeva ( nick "Armeum" ) a student in Westminster International University in Tashkent. Enjoying my life creating own projects, reading books, **in the near future* travelling around the world✈️ and out of the Earth🌍🌌
+I'm Munisa Rakhmatullaeva ( nick "Armeum" ) a student at Westminster International University in Tashkent. Enjoying my life creating own projects, reading books, **in the near future* travelling around the world✈️ and out of the Earth🌍🌌
 
 ### Tutorials
 
