@@ -24,9 +24,9 @@ I'm Munisa Rakhmatullaeva ( nick "Armeum" ) a student at Westminster Internation
 #### Github Stats
 ![Munisa's github stats](https://github-readme-stats.vercel.app/api?username=MunisaR&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-### Profile Visitors
+<!--### Profile Visitors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MunisaR.MunisaR)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MunisaR.MunisaR) -->
 
 
 <!--START_SECTION:waka-->
