@@ -20,7 +20,7 @@ I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student at Westminster Internation
 
 <img align="left" alt="Flutter" width="26px" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" />
 
-<img align="left" alt="Flutter" width="26px" src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" />
+<img align="left" alt="Flutter" width="50px" src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" />
 
 <br>
 <br>
