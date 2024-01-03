@@ -1,6 +1,6 @@
 ## Ciao! It's Munisa  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <br>
 
-I'm Munisa Rakhmatullaeva ( nick "Armeum" ) a student at Westminster International University in Tashkent. Enjoying my life creating own projects, reading books, **in the near future* travelling around the world✈️ and out of the Earth🌍🌌
+I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student at Westminster International University in Tashkent. Enjoying my life creating own projects, reading books, **in the near future* travelling around the world✈️ and out of the Earth🌍🌌
 
 ### Tutorials
 
@@ -24,13 +24,12 @@ I'm Munisa Rakhmatullaeva ( nick "Armeum" ) a student at Westminster Internation
 #### Github Stats
 ![Munisa's github stats](https://github-readme-stats.vercel.app/api?username=MunisaR&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kabra4&count_private=true&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MunisaR&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--### Profile Visitors
+### Profile Visitors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MunisaR.MunisaR) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MunisaR.MunisaR)
 
 
 <!--START_SECTION:waka-->
