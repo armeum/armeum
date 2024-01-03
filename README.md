@@ -18,7 +18,7 @@ I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student at Westminster Internation
 
 <img align="left" alt="Webstorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" />
 
-<img align="left" alt="Flutter" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png](https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png)" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" />
 
 <br>
 <br>
