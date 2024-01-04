@@ -35,6 +35,8 @@ I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student at Westminster Internation
 
 <img align="left" alt="Flutter" width="26px" src="https://w7.pngwing.com/pngs/269/262/png-transparent-computer-icons-iphone-ios-9-apple-logo-text-rectangle-logo.png" />
 
+<img align="left" alt="Flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" />
+
 
 
 <br>
