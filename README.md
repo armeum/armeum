@@ -1,5 +1,14 @@
 ## Ciao! It's Munisa  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <br>
 
+<p align="center">
+  <samp>
+    <a href="https://github.com/MunisaR">me</a> .
+    <a href="https://linkedin.com/in/armeum/">linkedin</a> .
+    <a href="https://discordapp.com/users/Armeum#2466">discord</a> .
+    <a href="https://t.me/armeum">telegram</a>
+  </samp>
+</p>
+
 I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student at Westminster International University in Tashkent. Enjoying my life creating own projects, reading books, **in the near future* travelling around the world✈️ and out of the Earth🌍🌌
 
 ### Tutorials
