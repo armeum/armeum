@@ -11,7 +11,12 @@
 
 I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student at Westminster International University in Tashkent. Enjoying my life creating own projects, reading books, **in the near future* travelling around the world✈️ and out of the Earth🌍🌌
 
-### Tutorials
+### #### Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armeum&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<br>
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
@@ -37,17 +42,8 @@ I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student at Westminster Internation
 
 <img align="left" alt="Flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" />
 
-
-
-<br>
-<br>
-
 <!--#### Github Stats
 ![armeum's github stats](https://github-readme-stats.vercel.app/api?username=armeum&count_private=true&theme=tokyonight&hide=contribs,prs)-->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armeum&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
