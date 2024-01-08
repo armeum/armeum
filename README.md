@@ -19,6 +19,8 @@ I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student at Westminster Internation
 
 <br>
 
+### Tools
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -35,13 +37,13 @@ I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student at Westminster Internation
 
 <img align="left" alt="Flutter" width="26px" src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" />
 
-<img align="left" alt="Flutter" width="50px" src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" />
+<img align="left" alt="dart" width="50px" src="https://miro.medium.com/v2/resize:fit:1400/1*_NVBTVdmjt3Qvq3CZOySXg.png" />
 
-<img align="left" alt="Flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" />
+<img align="left" alt="Android" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png" />
 
-<img align="left" alt="Flutter" width="26px" src="https://w7.pngwing.com/pngs/269/262/png-transparent-computer-icons-iphone-ios-9-apple-logo-text-rectangle-logo.png" />
+<img align="left" alt="iOS" width="26px" src="https://w7.pngwing.com/pngs/269/262/png-transparent-computer-icons-iphone-ios-9-apple-logo-text-rectangle-logo.png" />
 
-<img align="left" alt="Flutter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" />
+<img align="left" alt="Android_Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" />
 
 <!--#### Github Stats
 ![armeum's github stats](https://github-readme-stats.vercel.app/api?username=armeum&count_private=true&theme=tokyonight&hide=contribs,prs)-->
