@@ -29,7 +29,7 @@ I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student @ Westminster Internationa
 </a>
 
 
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="Git" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="css" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 </a>
 
 
@@ -47,9 +47,6 @@ I'm Munisa Rakhmatullaeva ( nick "armeum" ) a student @ Westminster Internationa
 </a>
 
 <a href="https://www.jetbrains.com/webstorm/promo/?source=google&medium=cpc&campaign=CIS_en_CIS_WebStorm_Branded&term=webstorm&content=523833970772&gclid=CjwKCAiAqY6tBhAtEiwAHeRopYm3n2BSi1VvPdUzX42QUYxXafRWuNirs6x_Hv0dzfeJKaZsVtrDvhoCC_oQAvD_BwE" target="_blank"><img align="left" alt="Webstorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </a>
 
 
